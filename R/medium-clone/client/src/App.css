@@ -1,0 +1,73 @@
+.menuitem{
+    font-size: 15px;
+    font-weight : 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.medium-clone {
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: Courier, monospace;
+}
+
+/* .home {
+    width : 1280px;
+    height: 300px;
+    background: url('https://github.com//images/modules/site/heroes/simple-codelines.svg'), #2b323a;
+} */
+
+.main-text{
+    text-align: center;
+    color : whitesmoke;
+    font-family : medium-content-title-font,Georgia,Cambria,"Times New Roman",Times,serif;
+    font-size: 70px;
+    margin-top: 50%;
+    line-height: 250px;
+}
+
+.form-group{
+    font-weight: bold;
+}
+.img-fluid{
+    height: 1px;
+    width: 1.5em;
+}
+.card{
+    margin-top: 2em;
+}
+
+.container-reg{
+    margin-top: 4em;
+    margin-right: 4em;
+}
+.nav-links{
+    color:black;
+    margin-right: 2em;
+    font-weight: 400;
+    font-size: 18px;
+}
+.register{
+    height: 35em;
+    background: url('https://github.com//images/modules/site/heroes/simple-codelines.svg'), #2b323a;
+    background-repeat: no-repeat;
+}
+
+.card.login{
+    margin-top: 4em;
+}
+.notice{
+    color : red;
+    text-align: center;
+}
+.header{
+    color : white;
+    font-size: 50px;
+    margin-top: 4em;
+}
+.quill-editor{
+    height: 445px;
+}
+.storyImage{
+    width : 680px;
+    height: 400px;
+}
